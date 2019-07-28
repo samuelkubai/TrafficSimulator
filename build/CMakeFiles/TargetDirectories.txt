@@ -1,3 +1,0 @@
-/local/apps/research/TrafficSim/build/CMakeFiles/rebuild_cache.dir
-/local/apps/research/TrafficSim/build/CMakeFiles/edit_cache.dir
-/local/apps/research/TrafficSim/build/CMakeFiles/traffic_simulation.dir
